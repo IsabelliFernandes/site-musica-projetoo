@@ -1,0 +1,42 @@
+main{
+    height: 300vw;
+    background-color: #f7e1bc;
+}
+
+.container-fluid{
+  height: 40px;
+   background-color: #050833;
+   
+}
+
+.navbar-brand{
+    color:white ;
+}
+
+img{
+    height: 30vw;
+    border-radius: 700px;
+}
+
+
+.p2{
+    margin-top: 60px;
+    
+}
+
+.lana-perfil{
+    margin-left: 40px;
+}
+
+.lana-perfil2{
+    margin-left: 40px;
+}
+
+.p-2{
+    height: 20vh;
+}
+
+.h5{
+  height: 10vh;
+
+}

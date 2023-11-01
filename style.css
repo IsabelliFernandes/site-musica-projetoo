@@ -1,0 +1,29 @@
+main{
+    height: 300vw;
+    background-color: #FEEDCF;
+}
+
+.container-fluid{
+  
+   background-color: #050833;
+   
+}
+
+.navbar-brand{
+    color:white ;
+}
+  
+img{
+    height: 30vw;
+    border-radius: 800px;
+   
+}
+
+.img{
+    height: 30vw;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 800px;
+
+}
